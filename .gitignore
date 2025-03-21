@@ -1,0 +1,14 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+packages/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.user
+*.suo
+*.ipch
+.vs/
